@@ -1,0 +1,26 @@
+body{
+    margin-bottom: 10px;
+    text-align:center;
+    width: 150px;
+    color:rgb(0, 0, 0);
+    border: solid black 10px;
+  margin-left: 350px;
+  margin: 450px;
+  padding: 100px;
+  background-image:url("file:///Z:/calculator/4700205.jpg");
+  background-repeat: no-repeat;
+}
+input[type="button"]
+{
+background-color:rgba(236, 240, 8, 0.637);
+color: black;
+border: solid black 2px;
+width:100%
+}
+input[type="text"]
+         {
+         background-color:white;
+         border: solid black 2px;
+         width:100%
+
+         }
